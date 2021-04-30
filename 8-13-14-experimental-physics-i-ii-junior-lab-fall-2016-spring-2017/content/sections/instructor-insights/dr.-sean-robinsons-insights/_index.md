@@ -1,0 +1,17 @@
+---
+course_id: 8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017
+is_media_gallery: true
+layout: instructor_insights
+menu:
+  leftnav:
+    identifier: 4035249307bd3b78544a4fd4d59fc70d
+    name: Dr. Sean Robinson's Insights
+    parent: acfc780e57590f17e6e56b834507e6a2
+    weight: 90
+parent_title: Instructor Insights
+title: Dr. Sean Robinson's Insights
+type: course
+uid: 4035249307bd3b78544a4fd4d59fc70d
+
+---
+{{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/meet-dr-sean-robinson" section="Dr. Sean Robinsons Insights" title="Meet Dr. Sean Robinson" description="" thumbnail="https://img.youtube.com/vi/vcnmiPAeNFE/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/student-challenge-1" section="Dr. Sean Robinsons Insights" title="Student Challenge #1: Unlearning How to do Experiments" description="" thumbnail="https://img.youtube.com/vi/B6mK4IyRYiA/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/student-challenge-2" section="Dr. Sean Robinsons Insights" title="Student Challenge #2: Encountering A Multidimensional Learning Surface" description="" thumbnail="https://img.youtube.com/vi/kHPWYeJ1ISI/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/student-challenge-3" section="Dr. Sean Robinsons Insights" title="Student Challenge #3: Learning Data Analysis" description="" thumbnail="https://img.youtube.com/vi/4Y9OO9AepgU/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/helping-students-cultivate-identities-as-scientists" section="Dr. Sean Robinsons Insights" title="Helping Students Cultivate Identities as Scientists" description="" thumbnail="https://img.youtube.com/vi/_yornlzBHL4/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/providing-science-communication-practice" section="Dr. Sean Robinsons Insights" title="Providing Science Communication Practice" description="" thumbnail="https://img.youtube.com/vi/N-VHewPgPP8/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/eliciting-cognitive-dissonance" section="Dr. Sean Robinsons Insights" title="Eliciting Cognitive Dissonance" description="" thumbnail="https://img.youtube.com/vi/79noW-0WuAI/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/flipping-the-classroom-2" section="Dr. Sean Robinsons Insights" title="Flipping the Classroom (Dr. Sean Robinson)" description="" thumbnail="https://img.youtube.com/vi/NwbPgoCW5Ro/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/an-active-learning-example" section="Dr. Sean Robinsons Insights" title="An Active Learning Example" description="" thumbnail="https://img.youtube.com/vi/RzbWSnb3kHs/default.jpg" >}} {{< video-gallery-item href="/sections/instructor-insights/dr.-sean-robinsons-insights/developing-new-experiments-behind-the-scenes" section="Dr. Sean Robinsons Insights" title="Developing New Experiments: Behind-the-Scenes" description="" thumbnail="https://img.youtube.com/vi/N1PimixqqXQ/default.jpg" >}}
